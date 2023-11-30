@@ -1,9 +1,8 @@
 SupraPrime Academia
 
-- **Autenticação:** Explicação sobre a autenticação no seu projeto.
-- **Banco de Dados:** Informações sobre como os dados são armazenados e acessados.
+- **Autenticação:** 
+- **Banco de Dados:** 
 - **Funcionalidade X:** Descrição da funcionalidade principal do seu projeto.
-- ...
 
 ## Configuração
 
