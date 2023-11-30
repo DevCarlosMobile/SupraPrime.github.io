@@ -1,2 +1,32 @@
-# SupraPrime.github.io
-Site para academia, SupraPrime projeto feito para aula de da faculdade de Desenv. Web em Html5, Css, Javascript e Php, do professor  João Ronaldo Del Ducca Cunha, site feito para vendas de suplementos e equipamentos de academia.
+SupraPrime Academia
+
+- **Autenticação:** Explicação sobre a autenticação no seu projeto.
+- **Banco de Dados:** Informações sobre como os dados são armazenados e acessados.
+- **Funcionalidade X:** Descrição da funcionalidade principal do seu projeto.
+- ...
+
+## Configuração
+
+Instruções sobre como configurar e executar o projeto localmente.
+
+### Requisitos
+
+- Software X (versão Y)
+- Biblioteca A (versão B)
+- ...
+
+### Configuração do Firebase
+
+Instruções sobre como configurar o Firebase, se aplicável.
+
+1. Crie um projeto no [Console do Firebase](https://console.firebase.google.com/).
+2. Adicione o SDK Firebase ao seu projeto.
+3. Configure as credenciais no arquivo HTML ou no código-fonte, conforme mostrado no exemplo.
+
+
+
+
+
+
+
+
